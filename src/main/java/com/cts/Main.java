@@ -9,6 +9,7 @@ public class Main {
 		Person person = new Person();
 		person.setName("New updated line !!!");
 		System.out.println(person.getName());
+		System.out.println("person.getName()");
 
 	}
 
